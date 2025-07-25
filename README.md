@@ -7,4 +7,4 @@ Fix: Changed SuperLinter from v3 to v4 to fix the error `[FATAL] Failed to view 
 
 ---
 ## JS1936 ##
-1. Test and verify fork's CI/CD with a GitHub push.
+1. Test and verify fork's CI/CD with a GitHub push. | Edit: CI/CD tests did not run.
